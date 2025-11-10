@@ -1,2 +1,8 @@
 # CSV_storage
-Store all the csv needed for anything here
+
+
+Copy this
+
+pd.read_csv('https://raw.githubusercontent.com/HarithMarzuki/CSV_storage/main/')
+
+and put the name of the .csv at the end
